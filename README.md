@@ -50,5 +50,5 @@ Sampling_Assignment/
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## Author
-- **Gatopotato**
+- **Samkit Jaina**
 - GitHub: [@gatopotato](https://github.com/gatopotato)
